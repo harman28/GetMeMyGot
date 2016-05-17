@@ -1,0 +1,6 @@
+{
+	"location": "/Users/harmansingh/TV/GoT",
+	"search_term": "game of thrones",
+	"after_torrent_script": "subs.sh",
+	"search_url": "https://kat.cr/usearch/%s/?field=seeders&sorder=desc"
+}

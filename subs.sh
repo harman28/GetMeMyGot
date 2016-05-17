@@ -1,0 +1,1 @@
+find $TR_TORRENT_DIR -regex "^.*[.mp4|.avi|.mkv]$" -type f | xargs -I {} python subtitle-downloader.py {}

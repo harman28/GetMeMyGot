@@ -1,0 +1,1 @@
+crontab -l | { cat; echo '0 8 * 5,6 1 ruby torrentloader.rb'; } | crontab -
